@@ -17,7 +17,7 @@ namespace Lifter
         {
             InitializeComponent();
         }
-
+        //CHANGE THIS LINE TO THE LOCATION OF THE DATABASE ON YOUR PC
         public static string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\James\Documents\UNI\Final Year Project\N0675709_Source\Lifter\Database1.mdf;Integrated Security=True";
         public static int trainerID;
         public static int ClientID;
